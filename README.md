@@ -44,9 +44,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: S.RISITHA
+### Name: LOGA SRI M
 
-### Register Number: 212225240119
+### Register Number: 212225230153
 
 ```python
 
